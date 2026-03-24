@@ -1,0 +1,15 @@
+# Virtual environments
+__pycache__/
+*.pyc
+.env
+
+# Anaconda
+*.egg-info/
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# Automatic drivers
+.wdm/
